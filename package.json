@@ -2,5 +2,8 @@
   "name": "thermodynamics",
   "version": "0.1.0",
   "author": "Felipe Contreras",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "uvu": "0.5.x"
+  }
 }
